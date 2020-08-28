@@ -78,8 +78,8 @@
 
 
 // FACTORIAL
-x = 5
-solution = 1
+let x = 5
+let solution = 1
 for(let i = 1; i <= x; i++){
     solution *= i
 }
